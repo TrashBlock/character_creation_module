@@ -1,8 +1,9 @@
 {
     "terminal.integrated.defaultProfile.windows": "GitBash",
     "terminal.external.windowsExec": "D:\\Program Files\\Git\\bin\\bash.exe",
-    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Enabled": false,
     "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
     
 
 }
